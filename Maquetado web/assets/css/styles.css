@@ -25,3 +25,8 @@ body{
     height: 5em;
     width: 100%;
   }
+
+  .grad{
+   
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+  }
